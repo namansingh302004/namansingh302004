@@ -6,7 +6,7 @@
 
 💡 *"Turning ideas into AI-powered realities"*
 
-🎓 2nd Year CSE Student @ VIT Chennai | 🤖 ML & AI Enthusiast | 🚀 Builder of Autonomous Agents
+🎓 3rd Year CSE Student @ VIT Chennai | 🤖 ML & AI Enthusiast | 🚀 Builder of Autonomous Agents
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/naman-kumar-singh-53219027a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://github.com/NamanKumarSingh)
