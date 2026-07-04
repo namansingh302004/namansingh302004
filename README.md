@@ -1,100 +1,171 @@
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Naman%20Kumar%20Singh&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Agentic%20Systems&descAlign=50&descSize=18"/>
+</p>
 
-# 🌟 Naman Kumar Singh
+<h3 align="center">
+Building Intelligent Systems that solve real-world problems.
+</h3>
 
-<div align="center">
+<p align="center">
 
-💡 *"Turning ideas into AI-powered realities"*
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🎓 3rd Year CSE Student @ VIT Chennai | 🤖 ML & AI Enthusiast | 🚀 Builder of Autonomous Agents
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/naman-kumar-singh-53219027a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://github.com/NamanKumarSingh)
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:singhnaman5604@gmail.com)
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
 
-</div>
-
----
-
-## ⚡ About Me
-
-* 🎓 CS Undergrad passionate about **AI, ML, LLMs, and Agents**
-* 🛠️ Experienced with **Deep Learning, NLP, RAG, and Autonomous Agents**
-* 💡 Open-source contributor, building **tools that simplify knowledge & interaction**
-* 🚀 Currently working on:
-
-  * AI **Interview Agents**
-  * Multi-modal **RAG assistants**
-  * Autonomous **News Generation Agents**
-  * Smart **Obsidian Knowledge Plugins**
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# About Me
 
-### 🤖 [Interview Agent](https://github.com/NamanKumarSingh/interview-agent)
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BzM3N6YXFlaWRocjN2N2xwaWF6eWd0eDdjM3QxczExbHJ0NGJ4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
 
-An **autonomous multilingual AI Interviewer** that evaluates candidates on job-related questions and provides **dynamic scoring**.
+🎓 B.Tech CSE @ VIT Chennai
 
-### 📰 [News Agent](https://github.com/NamanKumarSingh/news-agent)
+🤖 Machine Learning • Generative AI • LLMs
 
-A **news automation agent** that fetches articles, creates blogs, and **auto-posts** to social media.
+⚡ Building autonomous AI agents
 
-### 🧠 [Obsidian Plugin](https://github.com/NamanKumarSingh/obsidian-plugin)
+📚 Currently exploring
 
-Turns **Obsidian into a smart assistant** with auto-linking, summaries, and **conversational search**.
-
-### 📚 [VBOT-RAG-Chatbot](https://github.com/NamanKumarSingh/VBOT-RAG-Chatbot)
-
-A **multi-modal RAG assistant** for students & faculty — providing **contextual answers** to academic queries.
-
-### ✨ [PGAI](https://github.com/Matrix7043/PGAI)
-
-A **Post Generating AI** that creates engaging content using **LLM-powered creativity**.
+- Multi-Agent Systems
+- LangGraph
+- MCP
+- RAG
+- AI Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-<div align="center">
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-12100E.svg?logo=chainlink\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,flask,aws,docker,git,linux,mongodb,postgres,tensorflow,pytorch"/>
 
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# Featured Projects
 
-<div align="center">
+<table>
 
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanKumarSingh\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanKumarSingh\&layout=compact\&theme=radical)
+<tr>
 
-</div>
+<td width="50%">
+
+### 🤖 Interview Agent
+
+Autonomous multilingual AI interviewer powered by
+OpenAI, LangGraph and LiveKit.
+
+</td>
+
+<td width="50%">
+
+### 📚 MultiModal RAG
+
+Retrieval-Augmented Generation assistant for VIT.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📰 News Agent
+
+Autonomous research + blog generation pipeline.
+
+</td>
+
+<td>
+
+### 💰 Personal Finance Advisor
+
+AI-powered finance tracking and insights platform.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🌱 Fun Zone
+# Currently Working On
 
-* 🏆 Patent Holder: [Smart Helmet (India Patent App #202441037146)](https://drive.google.com/file/d/1Wm60LbJwmvkXLhdm04_YIQUDkBbLP2tr/view?usp=sharing)
-* 🎤 Hackathon Participant | 🚀 Internship @ Corizo
-* 🌍 Building **AI that impacts real-world problems**
+```python
+class Naman:
+
+    learning = [
+        "Agentic AI",
+        "LangGraph",
+        "MCP",
+        "Multi-Agent Systems",
+        "AWS"
+    ]
+
+    building = [
+        "AI Interview Agent",
+        "Finance Advisor",
+        "RAG Assistants",
+        "Knowledge Agents"
+    ]
+
+    looking_for = "Machine Learning Engineer Roles"
+```
 
 ---
 
-<div align="center">
+# GitHub Analytics
 
-✨ *Let’s connect and build the future of AI together!* ✨
+<p align="center">
 
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=namansingh302004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=namansingh302004&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=namansingh302004&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
+
+# Achievements
+
+🏆 Indian Patent Holder
+
+🥈 Smart India Hackathon Internal Qualifier (2×)
+
+💼 ML Engineer Intern @ ValueLeaf
+
+🧠 Stanford ML Specialization
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</p>
