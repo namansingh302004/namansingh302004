@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Naman%20Kumar%20Singh&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20|%20Generative%20AI%20|%20Agentic%20Systems&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Naman%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20Systems&descSize=18&descAlignY=68"/>
 </p>
 
 <h3 align="center">
-Building Intelligent Systems that solve real-world problems.
+Building production-ready AI systems that solve real-world problems.
 </h3>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/naman-singh-6baa5928b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:namansingh302004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/namansingh302004">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -26,21 +26,30 @@ Building Intelligent Systems that solve real-world problems.
 
 # About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BzM3N6YXFlaWRocjN2N2xwaWF6eWd0eDdjM3QxczExbHJ0NGJ4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+```yaml
+Name: Naman Kumar Singh
 
-🎓 B.Tech CSE @ VIT Chennai
+Education:
+  - B.Tech Computer Science
+  - VIT Chennai
 
-🤖 Machine Learning • Generative AI • LLMs
+Interests:
+  - Machine Learning
+  - Generative AI
+  - LLM Applications
+  - Agentic AI
+  - Retrieval-Augmented Generation
 
-⚡ Building autonomous AI agents
+Currently Learning:
+  - LangGraph
+  - Multi-Agent Systems
+  - Model Context Protocol (MCP)
+  - AWS
 
-📚 Currently exploring
-
-- Multi-Agent Systems
-- LangGraph
-- MCP
-- RAG
-- AI Infrastructure
+Looking For:
+  - Machine Learning Engineer
+  - AI Engineer
+```
 
 ---
 
@@ -48,7 +57,7 @@ Building Intelligent Systems that solve real-world problems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,flask,aws,docker,git,linux,mongodb,postgres,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,flask,mongodb,postgres,docker,aws,linux,git,tensorflow,pytorch"/>
 
 </p>
 
@@ -56,54 +65,17 @@ Building Intelligent Systems that solve real-world problems.
 
 # Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Interview Agent
-
-Autonomous multilingual AI interviewer powered by
-OpenAI, LangGraph and LiveKit.
-
-</td>
-
-<td width="50%">
-
-### 📚 MultiModal RAG
-
-Retrieval-Augmented Generation assistant for VIT.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📰 News Agent
-
-Autonomous research + blog generation pipeline.
-
-</td>
-
-<td>
-
-### 💰 Personal Finance Advisor
-
-AI-powered finance tracking and insights platform.
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description | Tech |
+|----------|-------------|------|
+| 💰 **Personal Finance Advisor** | AI-powered personal finance platform that analyzes spending patterns, tracks expenses and delivers actionable financial insights. | React, Flask, MongoDB, Gemini |
+| 🤖 **Interview Agent** | Autonomous multilingual AI interviewer capable of conducting technical interviews with intelligent evaluation and scoring. | OpenAI, LangGraph, LiveKit |
+| 📚 **MultiModal RAG Assistant** | Context-aware assistant for academic queries using multimodal Retrieval-Augmented Generation. | LangChain, LangGraph, Python |
+| 📰 **News Agent** | Autonomous AI system that researches topics, generates blogs and prepares content for publication. | Python, LLMs |
+| 📖 **Book Recommendation System** | Full-stack recommendation engine using collaborative filtering techniques. | Flask, MongoDB |
 
 ---
 
-# Currently Working On
+# Currently Building
 
 ```python
 class Naman:
@@ -111,19 +83,20 @@ class Naman:
     learning = [
         "Agentic AI",
         "LangGraph",
-        "MCP",
-        "Multi-Agent Systems",
+        "Model Context Protocol",
         "AWS"
     ]
 
     building = [
-        "AI Interview Agent",
-        "Finance Advisor",
-        "RAG Assistants",
-        "Knowledge Agents"
+        "Personal Finance Advisor",
+        "Enterprise RAG Platform",
+        "AI Developer Toolkit"
     ]
 
-    looking_for = "Machine Learning Engineer Roles"
+    mission = (
+        "Build practical AI products that are scalable, "
+        "useful and production-ready."
+    )
 ```
 
 ---
@@ -132,7 +105,7 @@ class Naman:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=namansingh302004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=namansingh302004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=namansingh302004&theme=tokyonight&hide_border=true"/>
 
@@ -140,7 +113,7 @@ class Naman:
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=namansingh302004&theme=tokyo-night&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansingh302004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,15 +121,47 @@ class Naman:
 
 # Achievements
 
-🏆 Indian Patent Holder
+🏆 **Indian Patent Holder**
 
-🥈 Smart India Hackathon Internal Qualifier (2×)
-
-💼 ML Engineer Intern @ ValueLeaf
-
-🧠 Stanford ML Specialization
+📄 Published Indian Patent for an IoT-enabled Smart Helmet Safety System.
 
 ---
+
+💼 **Machine Learning Engineer Intern**
+
+ValueLeaf IT Solutions (UK)
+
+---
+
+🥈 **Smart India Hackathon**
+
+Qualified for Internal Selection Rounds (2×)
+
+---
+
+🧠 **Machine Learning Specialization**
+
+Stanford University (Coursera)
+
+---
+
+💻 **Competitive Programming**
+
+LeetCode Contest Rating **1718** • Top **12%** Globally
+
+---
+
+# Activity
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=namansingh302004&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</p>
+
+---
+
+# Quote
 
 <p align="center">
 
@@ -164,8 +169,22 @@ class Naman:
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://komarev.com/ghpvc/?username=namansingh302004&label=Profile%20Views&color=0891b2&style=flat"/>
+
+</p>
+
+<p align="center">
+
+<i>"The best way to predict the future is to build it."</i>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </p>
