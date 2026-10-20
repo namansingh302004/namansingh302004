@@ -1,6 +1,5 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:4338CA&height=190&section=header&text=Naman%20Kumar%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20Systems&descAlignY=59&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=Naman%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -11,23 +10,21 @@
   <a href="https://github.com/namansingh302004">GitHub</a>
 </p>
 
-<br>
-
 I'm a Computer Science student at **VIT Chennai** interested in machine learning, intelligent agents, and the systems that make them work.
 
-I enjoy learning by building — from neural networks and recommendation systems to LLM-powered applications and distributed systems.
+I enjoy learning by building — from neural networks and recommendation systems to LLM-powered applications, computer graphics, and distributed systems.
 
 Currently exploring **reinforcement learning, agent architectures, and Linux internals.**
 
 ---
 
-## Selected work
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Personal Finance Advisor
+### Personal Finance Advisor
 
 An AI-powered finance platform for transaction analysis, spending patterns, and personalized financial insights.
 
@@ -38,7 +35,7 @@ An AI-powered finance platform for transaction analysis, spending patterns, and 
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI Interview Agent
+### AI Interview Agent
 
 A multilingual interview system that conducts technical interviews, generates follow-up questions, and evaluates candidate responses.
 
@@ -49,41 +46,42 @@ A multilingual interview system that conducts technical interviews, generates fo
 <tr>
 <td width="50%" valign="top">
 
-### ⌘ Multimodal RAG Assistant
+### Simple Ray Tracer
 
-A document-grounded assistant designed to retrieve and answer questions from PDFs and structured knowledge sources.
+A ray tracer built from scratch in C++, exploring vectors, rays, camera geometry, sphere intersections, surface normals, and object-oriented design.
 
-`Python` `LangChain` `LangGraph`
+`C++` `CMake` `Computer Graphics`
 
 </td>
 <td width="50%" valign="top">
 
-### ↗ Autonomous News Agent
+### Multimodal RAG Assistant
 
-An AI agent that researches topics, generates articles, and prepares content for publication.
+A document-grounded assistant designed to answer questions using PDFs and structured knowledge sources.
 
-`Python` `LLMs`
+`Python` `LangChain` `LangGraph`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ▤ Book Recommendation System
+### Autonomous News Agent
 
-A recommendation engine using collaborative filtering, Flask, and MongoDB.
+An AI agent that researches topics, generates articles, and prepares content for publication.
 
-`Python` `Flask` `MongoDB`
+`Python` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙ What I'm exploring
+### Book Recommendation System
 
-- Reinforcement learning
-- Linux and operating systems
-- LLM agents and tool orchestration
-- Distributed systems
+A recommendation engine built using collaborative filtering.
+
+`Python` `Flask` `MongoDB`
+
+[View repository ↗](https://github.com/namansingh302004/book-recommender-system)
 
 </td>
 </tr>
@@ -93,44 +91,46 @@ A recommendation engine using collaborative filtering, Flask, and MongoDB.
 
 ## Experience
 
-**Machine Learning Engineer Intern · ValueLeaf IT Solutions**
+**Machine Learning Engineer Intern · ValueLeaf IT Solutions (UK)**
 
 - Developed AI-powered interview automation workflows.
-- Built cloud-based RAG pipelines using AWS.
+- Built cloud-based RAG pipelines using AWS services.
 - Worked with LangGraph, LiveKit, and OpenAI APIs.
-- Explored AI workflow orchestration with the Model Context Protocol (MCP).
+- Explored AI workflow orchestration using the Model Context Protocol (MCP).
 
 ---
 
-## Tools I work with
+## Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,flask,mongodb,postgres,docker,aws,git,linux,tensorflow,pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,flask,mongodb,postgres,docker,aws,git,linux,tensorflow,pytorch" alt="Python, C++, Java, JavaScript, React, Node.js, Flask, MongoDB, PostgreSQL, Docker, AWS, Git, Linux, TensorFlow and PyTorch" />
 </p>
 
 ---
 
-## A few milestones
+## Currently exploring
 
-| | |
+`Reinforcement Learning` &nbsp; `Linux Internals` &nbsp; `Agent Architectures` &nbsp; `Distributed Systems`
+
+---
+
+## Highlights
+
+| Area | Milestone |
 |:--|:--|
 | Research | Indian patent holder |
-| Machine learning | Stanford Machine Learning Specialization |
+| Machine Learning | Stanford Machine Learning Specialization |
 | Hackathons | Smart India Hackathon internal qualifier · 2× |
-| Problem solving | LeetCode rating: **1718** · Top 12% |
+| Problem Solving | LeetCode rating **1718** · Top 12% |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namansingh302004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namansingh302004&show_icons=true&hide_border=true&bg_color=00000000&title_color=539BF5&icon_color=539BF5&text_color=8B949E&rank_icon=github" height="150" alt="GitHub statistics" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansingh302004&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansingh302004&layout=compact&hide_border=true&bg_color=00000000&title_color=539BF5&text_color=8B949E" height="150" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <sub>Learning by building. Building to understand.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:172554,100:0D1117&height=90&section=footer" width="100%" />
+  <sub>Learning by building.</sub>
 </p>
